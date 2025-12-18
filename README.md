@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, im Richards! 👋
 
 - 🌱 I’m currently studying software engineering
 - 👯 I’m looking to collaborate on porting videogames
