@@ -1,8 +1,6 @@
-## Hi there, im Richard! 👋
+RICHARD S. ARIZANDIETA    
 
-- 🌱 I’m currently studying software engineering
-- 👯 I’m looking to collaborate on porting videogames
-- 💬 Ask me about [My career](https://sergiearizandieta.github.io/Pensum-ing-usac/#/pensum/9)
-- 📫 How to reach me: [Instagram](https://www.instagram.com/styless.cs/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play Counter Strike and Tetris!
+- Estudio Ingeniería en Ciencias y Sistemas 
+- Actualmente solo subo los proyectos que me dejan en los [cursos de la facultad](https://sergiearizandieta.github.io/Pensum-ing-usac/#/pensum/9)
+- Normalmente se me contacta por [Instagram](https://www.instagram.com/styless.cs/) ya que ahí es donde más estoy activo!
+- Me encanta la Física Celeste y la Fotografía!
