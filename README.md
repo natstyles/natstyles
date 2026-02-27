@@ -1,4 +1,4 @@
-## RICHARD S. ARIZANDIETA    
+## R. STEVEN ARIZANDIETA    
 
 - Estudio Ingeniería en Ciencias y Sistemas 
 - Actualmente solo subo los proyectos que me dejan en los [cursos de la facultad](https://sergiearizandieta.github.io/Pensum-ing-usac/#/pensum/9)
